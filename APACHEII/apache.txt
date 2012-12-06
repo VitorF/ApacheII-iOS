@@ -1,0 +1,96 @@
+Temperatura Retal (ºC)
+	>= 41 		+4
+	39 a 40,9 	+3
+	38,5 a 38,9 	+1
+	36 a 38,4 	0
+	34 a 35,9	+1
+	32 a 33,9	+2
+	30 a 31,9	+3
+	<= 29,9		+4
+
+Pressao Arterial (mmHg)
+	>= 160		+4
+	130 a 159	+3
+	110 a 129	+2
+	70 a 109	0
+	50 a 69		+2
+	<= 49		+4
+
+Frequencia Cardiaca (bpm)
+	180		+4
+	140 a 179	+3
+	110 a 139	+2
+	70 a 109	0
+	55 a 69		+2
+	40 a 54		+3
+	39		+4
+Oxigenacao - A-aPO2(FiO2>50%) or PaO2(FiO2<50%)
+	> 500		+4
+	350 a 499	+3
+	200 a 349	+2
+	<200 ou PaO2 > 70	0
+	PaO2 61 a 70	+1
+	PaO2 55 a 60	+3
+	PaO2 < 55	+4
+
+PH Arterial
+	>= 7,7		+4
+	7,6 a 7,69	+3
+	7,5 a 7,59	+2
+	7,33 a 7,49	0
+	7,25 a 7,32	+2
+	7,15 a 7,24	+3
+	< 7,15		+4
+Na+ sérico (mEq/l)
+	180		+4
+	160 a 179	+3
+	155 a 159	+2
+	150 a 154	+1
+	130 a 149	0
+	120 a 129	+2
+	111 a 119	+3
+	110		+4
+K+ sérico	(mEq/l)
+	7		+4
+	6 a 6,9		+3
+	5,5 a 5,9	+1
+	3,5 a 5,4	0
+	3 a 3,4		+1
+	2,5 a 2,9	+2
+	2,5		+4
+Creatinina
+	3,5		+4
+	2 a 3,4		+3
+	1,5 a 1,9	+2
+	0,6 a 1,4	0
+	< 0,6		+2
+Hematocrito
+	60		+4
+	50 a 59,9	+2
+	46 a 49,9	+1
+	30 a 45,9	0
+	20 a 29,9	+2
+	< 20		+4
+Leucócitos (Globulos Brancos)
+	40		+4
+	20 a 39,9	+2
+	15 a 19,9	+1
+	3 a 14,9	0
+	1 a 2,9		+2
+	< 1		+4
+
+Escala Glasgow
+	3 a 15	proprios valores
+
+Problemas Cronicos de Saude
+	Nenhum		0
+	Nao-Cirurgico	+5
+	Cirurgia de Emergencia	+5
+	Cirurgia eletiva	+2
+
+Idade
+	<= 44		0
+	45 a 54		2
+	55 a 64		3
+	65 a 74		5
+	>= 75		6
