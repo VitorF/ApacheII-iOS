@@ -1,4 +1,4 @@
-apache2
+Apache II
 =======
 
 This app is used to calculate the Acute Physiology and Chronic Health Evaluation index.
